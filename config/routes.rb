@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-    resource :groups
+    resources :groups
     root'groups#index'
 
   # The priority is based upon order of creation: first created -> highest priority.
