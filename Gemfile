@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 # gem"device"
+gem "devise", "~> 4.0.0 "
 # gem "simple_form"
 gem 'bootstrap-sass'
 gem "simple_form"
